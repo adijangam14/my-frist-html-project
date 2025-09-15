@@ -7,7 +7,7 @@ It highlights the life, achievements, and legacy of the great Maratha king who f
 
 ## ✨ Features
 - Responsive **HTML5 structure** with semantic tags (`header`, `main`, `footer`)
-- Clean **navigation bar** linking to multiple pages (`index`, `lifetime`, `sardar`, `forts`)
+- Clean **navigation bar** linking to multiple pages (`home`, `lifetime`, `sardar`, `forts`)
 - Marathi text content with multilingual support
 - Historical details about Shivaji Maharaj’s coronation and achievements
 - External reference link to the **Wikipedia article**
